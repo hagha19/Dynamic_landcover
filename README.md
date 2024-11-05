@@ -2,6 +2,8 @@
 
 This project provides a web-based application for analyzing land cover changes using the Google Earth Engine (GEE) platform. The application allows users to select two specific years and visualize the dominant land cover types in a specified region (Quebec City) over the selected years, leveraging the Dynamic World dataset.
 
+https://gee-phac.projects.earthengine.app/view/dynamiclandcover
+
 ## Features
 
 - **User Interface**: The app features a simple UI where users can select two years from a dropdown menu (2016 to 2024). The application computes the mode of land cover classes for the months of May to September for each selected year.
