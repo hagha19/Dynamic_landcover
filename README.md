@@ -1,6 +1,7 @@
 # Dynamic Land Cover Analysis with Google Earth Engine
 
-This project provides a web-based application for analyzing land cover changes using the Google Earth Engine (GEE) platform. The application allows users to select two specific years and visualize the dominant land cover types in a specified region (Quebec City) over the selected years, leveraging the Dynamic World dataset.
+This project provides a web-based application for analyzing land cover changes using the Google Earth Engine (GEE) platform. The source data: Brown, C.F., Brumby, S.P., Guzder-Williams, B. et al. Dynamic World, Near real-time global 10 m land use land cover mapping. Sci Data 9, 251 (2022). doi:10.1038/s41597-022-01307-4 
+The application allows users to select two specific years and visualize the dominant land cover types in a specified region (Quebec City) over the selected years, leveraging the Dynamic World dataset.
 
 https://gee-phac.projects.earthengine.app/view/dynamiclandcover
 
